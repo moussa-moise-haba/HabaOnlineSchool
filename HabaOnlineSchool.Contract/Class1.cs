@@ -9,4 +9,8 @@ namespace HabaOnlineSchool.Contract
     public class Class1
     {
     }
+
+
+
 }
+
